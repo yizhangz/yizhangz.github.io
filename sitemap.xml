@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yizhangz.github.io/2017/12/06/hello-world/</loc>
+    
+    <lastmod>2020-06-15T22:12:47.155Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yizhangz.github.io/2020/06/14/Course-Overview/</loc>
     
     <lastmod>2020-06-15T22:07:41.158Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://yizhangz.github.io/2017/02/25/Birthday-party/</loc>
     
     <lastmod>2017-12-06T18:08:12.965Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yizhangz.github.io/2017/12/06/hello-world/</loc>
-    
-    <lastmod>2017-12-06T18:08:12.954Z</lastmod>
     
   </url>
   
